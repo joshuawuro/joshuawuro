@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **joshuawuro@gmail.com**
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact **I easily adapt to Tech Agile Teams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
