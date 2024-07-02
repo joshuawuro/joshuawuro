@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/_joshuawuro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_joshuawuro" height="30" width="40" /></a>
 <a href="https://x.com/joshuawuro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="joshuawuro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joshua awuro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua awuro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joshuawuro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua awuro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
